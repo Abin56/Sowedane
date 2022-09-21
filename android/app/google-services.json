@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "584990379092",
+    "project_id": "signin-ecf60",
+    "storage_bucket": "signin-ecf60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584990379092:android:07b5e6342a660272ffb1c1",
+        "android_client_info": {
+          "package_name": "com.example.sowedane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584990379092-l39a6u09r27gl6noe2kqfqj7s6ol3ou1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-BYvbdflVGBEJQjE-pecW5njgOlDuv48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584990379092-l39a6u09r27gl6noe2kqfqj7s6ol3ou1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
